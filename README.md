@@ -26,12 +26,7 @@ Features
 - Auto-incremented primary keys
 - Data relationships
 
- How to Use
-
-1. Import `schema.sql` into your MySQL server
-2. Run `sample_data.sql` to insert test data
-3. Execute `queries.sql` for sample operations
-4. Optional: Extend with triggers, views, or frontend
+ 
 
  Future Enhancements
 
