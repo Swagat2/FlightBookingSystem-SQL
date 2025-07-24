@@ -1,4 +1,5 @@
 CREATE DATABASE FlightBookingDB;
+
 USE FlightBookingDB;
 
 CREATE TABLE Airports (
@@ -63,8 +64,3 @@ INSERT INTO Bookings (passenger_id, flight_id, booking_date, seat_number) VALUES
 
 INSERT INTO Payments (booking_id, amount, payment_date, method) VALUES
 (1, 5500.00, '2025-07-25', 'UPI');
-
-
-
-
-
